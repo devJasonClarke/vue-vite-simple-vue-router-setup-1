@@ -13,4 +13,6 @@ import { ref } from "vue";
 const about = ref("Go to the About Page");
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+</style>
